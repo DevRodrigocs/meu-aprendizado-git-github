@@ -1,0 +1,4 @@
+para instalar o git vá até o terminal e digite apt-get install git
+para configurar digite no terminal git config --global user.name "nome"
+                                   git config --global user.email "email"
+para ver se deu certo digite git config --list
