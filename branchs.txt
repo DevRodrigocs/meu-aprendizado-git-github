@@ -1,0 +1,5 @@
+git branch > mostra os branchs do projeto
+git branch "nome" > cria uma nova branch
+git checkout "nome" > navega para branch escolhida
+git branch -D "nome" > deleta a branch quando estiver na master
+git checkout -b "nome" > cria uma nova branche ja entra nela
