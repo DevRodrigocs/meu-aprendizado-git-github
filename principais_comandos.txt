@@ -1,0 +1,16 @@
+mkdir cria uma pasta
+git init > inicia o git
+touch > cria um arquivo
+git status > mostra se foi commitado ou nao
+git add > vai para o STAGE
+git commit -m 'o que foi feito' > salva
+git diff > mostra o que mudou
+git commit --amemd > muda arquivoS
+git reset HEAD "nome" > tira do STAGE
+git checkout --"nome" > desfaz alterações no arquivo
+git branch > mostra os branchs do projeto
+git branch "nome" > cria uma nova branch
+git checkout "nome" > navega para branch escolhida
+git branch -D "nome" > deleta a branch quando estiver na master
+git checkout -b "nome" > cria uma nova branche ja entra nela
+git merge "nome" > junta a branch escolhida a master
